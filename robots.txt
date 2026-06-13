@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kaushal-gupta.netlify.app/sitemap.xml
